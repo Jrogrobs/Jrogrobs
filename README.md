@@ -16,7 +16,7 @@
 <br/>  
 
 
-#### My Skill Set  
+#### My Skill Set: 
 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -33,6 +33,9 @@
 
 <br/>  
 
+   
+   
+   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Jrogrobs&&style=flat-square" align="center" />
 </div>  
