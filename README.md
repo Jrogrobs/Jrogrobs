@@ -59,9 +59,6 @@
 
 <br/>  
 
-
-## Github Stats   
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Jrogrobs&&style=flat-square" align="center" />
 </div>  
