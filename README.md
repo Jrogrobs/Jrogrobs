@@ -4,13 +4,13 @@
 #### <div align="center">I'm Julius, self taught and interested in coding with an application for finance.</div>  
   
 
-- 📈 I’m probably currently working on some financy code.  
+- I’m probably currently working on some financy code.  
   
 
-- 🌱 I’m currently learning to develop live algorithms.  
+- I’m currently learning to develop real time algorithms interacting with financial markets.  
   
 
-- ⚡ Fun fact: I love spaghetti code.  
+- Fun fact: I love spaghetti code.  
   
 
 <br/>  
