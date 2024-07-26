@@ -1,5 +1,4 @@
-## 
-Welcome to My GitHub!
+### Welcome to My GitHub!
 
 I'm Julius, and I'm interested in coding with an application for finance.
 
