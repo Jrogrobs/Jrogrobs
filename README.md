@@ -65,15 +65,22 @@
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Jrogrobs&&style=flat-square" align="center" />
 </div>  
 
 <br />
+
+
+
+
+
+
+
+
+
+
+
 
 ----
 <div align="center">Generated using <a href="https://profilinator.Jrogrobs.dev/" target="_blank">Github Profilinator</a></div>
