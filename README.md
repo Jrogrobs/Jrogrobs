@@ -24,7 +24,9 @@
 
 </div>
 As well as:
+
 - SQL
+  
 - Excel VBA
 
 </td><td valign="top" width="33%">
